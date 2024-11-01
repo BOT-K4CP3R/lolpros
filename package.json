@@ -1,0 +1,26 @@
+{
+  "name": "lolpros",
+  "version": "1.0.0",
+  "description": "A Node.js library for interacting with the LolPros API. It allows you to search player profiles, retrieve game details, and access the leaderboard",
+  "main": "index.js",
+  "author": "botk4cp3r",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOT-K4CP3R/lolpros.git"
+  },
+  "keywords": [
+    "lolpros"
+  ],
+  "bugs": {
+    "url": "https://github.com/BOT-K4CP3R/lolpros/issues"
+  },
+  "homepage": "https://github.com/BOT-K4CP3R/lolpros#readme"
+}
