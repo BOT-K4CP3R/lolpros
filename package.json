@@ -1,6 +1,6 @@
 {
   "name": "lolpros",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js library for interacting with the LolPros API. It allows you to search player profiles, retrieve game details, and access the leaderboard",
   "main": "src/index.js",
   "author": "botk4cp3r",
